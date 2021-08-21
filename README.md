@@ -1,5 +1,9 @@
 ## About me
-
+为天地立心，
+为生民立命，
+为往圣继绝学，
+为万世开太平。
+        --张载
 + Author: Yao Qing-sheng
 + Author-cn: 要庆生
 + slogan: 解放思想，发展生产力
@@ -11,7 +15,7 @@
 
 - weibo: <http://weibo.com/lordyao>
 - wechat:
-- QQ: 350788415
+- QQ: 
 - dingding:
 - instagram:
 - pinterest:
@@ -23,4 +27,3 @@
 - douban: <https://www.douban.com/people/2307961/>
 - StackOverflow:
 - Azure:
-- Email: 350788415@qq.com
