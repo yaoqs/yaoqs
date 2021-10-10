@@ -23,22 +23,15 @@
 - csdn: <https://blog.csdn.net/yaokingson>
 - cnblog:
 #### 学术/scholar
-- arxiv: <https://arxiv.org>
-#### 媒体
+
+#### 社交/social intercourse
 - weibo: <http://weibo.com/lordyao>
 - 哔哩哔哩/bilibili：<https://space.bilibili.com/19354848>
 - twitter: <http://twitter.com/Lord_Honor_Yao>
-- douban: <https://www.douban.com/people/2307961/>
 - 知乎:
 #### IM
-- wechat:
 - QQ: 350788415
 - Telegram:
-- dingding:
-- instagram:
-- pinterest:
-- facebook:
-- linkedin:
 #### Email list
 - Email: 350788415@qq.com
 ### Github
