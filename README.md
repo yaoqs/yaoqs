@@ -5,6 +5,17 @@
 + ![slogan](https://img.shields.io/badge/Slogan-解放思想，发展生产力-darkred?style=flat-square&logo=china&logoColor=black)
 + ![Address](https://img.shields.io/badge/Address-Department_of_Natural_Philosophy_&_Infomation_Sciences,CHINA-blue?style=flat-square&logo=china&logoColor=black)
 
+## slogan
+
++ 解放思想，发展生产力
++ 为天地立心，为生民立命，为往圣继绝学，为万世开太平。
++ 知行合一
++ 凡事预则立，不预则废
++ 茍日新，日日新，又日新
++ 天之道，利而不害；圣人之道，为而不争
++ 吾尝终日而思矣，不如须臾之所学也。吾尝跂而望矣，不如登高之博见也。君子生非异也，善假于物也。
++ 练得身形似鹤形，千株松下两函经。我来问道无馀说，云在青霄水在瓶。
+
 ## Biography
 
 ## Contact
@@ -101,6 +112,6 @@ Visitor Count
 
 ## 42
 
-+ ![船舶](%E8%88%B9%E8%88%B6.gif)
++ ![船舶](船舶.gif)
 + ![火箭](火箭.gif)
 + ![芯片](芯片.gif)
