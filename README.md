@@ -17,10 +17,11 @@
 + 练得身形似鹤形，千株松下两函经。我来问道无馀说，云在青霄水在瓶。
 + 寇可往，我亦可往
 + 我的思想是全人类的财富
++ 仰望星空
 
 ## Biography
 
-Yao-Qingsheng received the B.S. degree in Noise and Vibration Control(082502 <https://gaokao.chsi.com.cn/zyk/zybk/ksyxPage?specId=73384560>) from Northwestern Polytechnical University (NPU), Xi'an, China, in 2010 and the M.S. degree in Underwater Acoustic Engineering(082403 <https://yz.chsi.com.cn/zyk/specialityDetail.do?zymc=%e6%b0%b4%e5%a3%b0%e5%b7%a5%e7%a8%8b&zydm=082403&ssdm=&method=distribution&ccdm=&cckey=10>) from Northwestern Polytechnical University (NPU), Xi'an, China, in 2013. He is currently working toward the Ph.D. degree in Electronic Information(085400) with the School of Marine Science and Technology, Northwestern Polytechnical University (NPU), Xi'an, China. His research interests include Underwater Acoustic Engineering, Underwater Acoustic Target Tracking and Information Fusion.
+Yao-Qingsheng received the B.S. degree in Noise and Vibration Control([082502](https://gaokao.chsi.com.cn/zyk/zybk/ksyxPage?specId=73384560)) from Northwestern Polytechnical University (NPU), Xi'an, China, in 2010 and the M.S. degree in Underwater Acoustic Engineering([082403](https://yz.chsi.com.cn/zyk/specialityDetail.do?zymc=%e6%b0%b4%e5%a3%b0%e5%b7%a5%e7%a8%8b&zydm=082403&ssdm=&method=distribution&ccdm=&cckey=10)) from Northwestern Polytechnical University (NPU), Xi'an, China, in 2013. He is currently working toward the Ph.D. degree in Electronic Information(085400) with the School of Marine Science and Technology, Northwestern Polytechnical University (NPU), Xi'an, China. His research interests include Underwater Acoustic Engineering, Underwater Acoustic Target Tracking and Information Fusion.
 
 ## Contact
 
@@ -85,7 +86,7 @@ kaggle
 
 ### Count
 
-![](https://komarev.com/ghpvc/?username=yaoqs&abbreviated=true&base=1000)
+![count](https://komarev.com/ghpvc/?username=yaoqs&abbreviated=true&base=1000)
 
 Visitor Count
 
@@ -93,9 +94,13 @@ Visitor Count
 
 ### My Skills
 
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![C#](https://img.shields.io/badge/CSharp-black?style=flat-square&logo=csharp)
+![C++](https://img.shields.io/badge/C++-black?style=flat-square&logo=cplusplus)
 ![Matlab](https://img.shields.io/badge/Mathworks-Matlab-white?style=flat-square)
+![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=Python)
 ![html+css+js](https://img.shields.io/badge/Html+css+js-black?style=flat-square&logo=Html5)
+![js](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=javascript)
 ![d3.js](https://img.shields.io/badge/d3.js-black?style=flat-square&logo=d3.js)
 ![Node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 ![Echarts.js](https://img.shields.io/badge/Echarts.js-black?style=flat-square&logo=Apacheecharts)
