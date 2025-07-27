@@ -1,24 +1,22 @@
-# About me
+# About Me
 
-+ ![Author](https://img.shields.io/badge/Author-Yao_Qingsheng-ffffff?style=flat-square&logo=china&logoColor=black)
-+ ![Author-cn](https://img.shields.io/badge/Author-要庆生-ffffff?style=flat-square&logo=china&logoColor=black)
-+ ![slogan](https://img.shields.io/badge/Slogan-解放思想，发展生产力-darkred?style=flat-square&logo=china&logoColor=black)
-+ ![Address](https://img.shields.io/badge/Address-Department_of_Natural_Philosophy_&_Infomation_Sciences,CHINA-blue?style=flat-square&logo=china&logoColor=black)
+- ![Author](https://img.shields.io/badge/Author-Yao_Qingsheng-ffffff?style=flat-square&logo=china&logoColor=black)
+- ![Author-cn](https://img.shields.io/badge/Author-要庆生-ffffff?style=flat-square&logo=china&logoColor=black)
+- ![slogan](https://img.shields.io/badge/Slogan-解放思想，发展生产力-darkred?style=flat-square&logo=china&logoColor=black)
+- ![Address](https://img.shields.io/badge/Address-Department_of_Natural_Philosophy_&_Infomation_Sciences,CHINA-blue?style=flat-square&logo=china&logoColor=black)
+- ![2006年美国时代周刊风云人物](https://img.shields.io/badge/&#x1F60A;-2006年美国时代周刊风云人物-darkred?style=flat-square)
+- ![2008年感动中国年度人物特别奖](https://img.shields.io/badge/😜-2008年感动中国年度人物特别奖-darkred?style=flat-square)
+- ![2019年联合国年度地球卫士奖联合获奖人](https://img.shields.io/badge/😊-2019年联合国年度地球卫士奖联合获奖人-darkred?style=flat-square)
+- ![2022年奥林匹克奖杯获得者](https://img.shields.io/badge/😜-2022年奥林匹克奖杯获得者-darkred?style=flat-square)
 
 ## slogan
 
-+ 解放思想，发展生产力
-+ 为天地立心，为生民立命，为往圣继绝学，为万世开太平。
-+ 知行合一
-+ 凡事预则立，不预则废
-+ 茍日新，日日新，又日新
-+ 天之道，利而不害；圣人之道，为而不争
-+ 吾尝终日而思矣，不如须臾之所学也。吾尝跂而望矣，不如登高之博见也。君子生非异也，善假于物也。
-+ 练得身形似鹤形，千株松下两函经。我来问道无馀说，云在青霄水在瓶。
-+ 寇可往，我亦可往
-+ 我的思想是全人类的财富
-+ 仰望星空
-+ 向上管理
+- 解放思想，发展生产力
+- 知行合一
+- 茍日新，日日新，又日新
+- 天之道，利而不害；圣人之道，为而不争
+- 君子生非异也，善假于物也。君子博学而日参省乎己，则知明而行无过矣。
+- 我的思想是全人类的财富
 
 ## Biography
 
@@ -26,34 +24,46 @@ Yao-Qingsheng received the B.S. degree in Noise and Vibration Control([082502](h
 
 ### 主要成果展示
 
-#### 以第一权利人获得的发明专利或软件著作权
+#### 软件著作权
 
-昆明船舶设备研究试验中心（中国船舶重工集团公司七五0试验场）.要庆生.船载无线数据传输与融合显示软件.软件著作权.登记号：2021SR0256847.
-+ 昆明船舶设备研究试验中心（中国船舶重工集团公司七五0试验场）.要庆生.船载式水下目标定位跟踪系统显控处理软件.软件著作权.登记号：2021SR0175434.
-+ 昆明船舶设备研究试验中心.要庆生.大范围水声跟踪测量系统状态显控软件.软件著作权.登记号：2018SR124669.
-+ 昆明船舶设备研究试验中心.要庆生.船载电罗经航迹航向显示软件.软件著作权.登记号：2018SR125516.
-+ 中国船舶重工集团公司七五〇试验场.要庆生.大范围水声跟踪测量系统弹道处理显控软件.软件著作权.登记号：2016SR090272.
+- 要庆生.一种水下声学测距系统数据处理与显控软件.登记号：2025SR0415068.昆明船舶设备研究试验中心（中国船舶集团有限公司七五〇试验场）.
+- 要庆生.数据信息融合系统软件.登记号：2025SR0415047.昆明船舶设备研究试验中心（中国船舶集团有限公司七五〇试验场）.
+- 要庆生.目标应答定位跟踪系统显控软件.登记号：2025SR0416308.昆明船舶设备研究试验中心（中国船舶集团有限公司七五〇试验场）.
+- 要庆生.水下多目标定位跟踪显控软件.登记号：2025SR0414999.昆明船舶设备研究试验中心（中国船舶集团有限公司七五〇试验场）.
+- 要庆生.水下无人潜航器综合试验测试系统-长基线浮标高精度定位分系统显控软件.登记号：2025SR0415846.昆明船舶设备研究试验中心（中国船舶集团有限公司七五〇试验场）.
+- 要庆生.座底式多目标定位跟踪测量系统数据处理与显控软件.登记号：2025SR0514028.昆明船舶设备研究试验中心（中国船舶集团有限公司七五〇试验场）.
+- 要庆生.船载无线数据传输与融合显示软件.软件著作权.登记号：2021SR0256847.昆明船舶设备研究试验中心（中国船舶重工集团公司七五0试验场）.
+- 要庆生.船载式水下目标定位跟踪系统显控处理软件.软件著作权.登记号：2021SR0175434.昆明船舶设备研究试验中心（中国船舶重工集团公司七五0试验场）.
+- 要庆生.大范围水声跟踪测量系统状态显控软件.软件著作权.登记号：2018SR124669.昆明船舶设备研究试验中心.
+- 要庆生.船载电罗经航迹航向显示软件.软件著作权.登记号：2018SR125516.昆明船舶设备研究试验中心.
+- 要庆生.大范围水声跟踪测量系统弹道处理显控软件.软件著作权.登记号：2016SR090272.中国船舶重工集团公司七五〇试验场.
 
-+ 吕希敬; 要庆生; 黄其培; 杨咏; 施铭珂; 何美玲.一种四自由度的水听器支架[P].云南省:CN202322600447.X,2024-04-30.
-+ 王琨; 匡彪; 汤志峰; 柯有强; 宋文生; 龚浩亮; 马小勤; 要庆生; 桑国峰.一种双环自愈型水下光纤网络信号传输系统和方法[P].云南省:CN202210007443.8,2024-01-23.
-+ 袁春姗; 匡彪; 黄其培; 唐济远; 要庆生; 马小勤; 万莉莉.基于水声定位的井口防喷器安装方法[P].云南省:CN202310912629.2,2023-09-19.
-+ 范赞; 刘庆; 匡彪; 付传宝; 要庆生.用于水下清洗机器人的高精度相对定位方法[P].云南省:CN202211507900.6,2023-03-24.
-+ 王琨; 匡彪; 汤志峰; 柯有强; 宋文生; 龚浩亮; 马小勤; 要庆生; 桑国峰.一种双环自愈型水下光纤网络信号传输系统和方法[P].云南省:CN202210007443.8,2022-05-13.
+#### 发明专利
+- 要庆生, 李亚安, 范赞, 汤志峰,黄其培.一种抗浅海水声跃变干扰的长基线定位系统和融合算法:云南省,CN119224689A[P].2024-12-31.发明公开.昆明船舶设备研究试验中心(中国船舶集团有限公司七五〇试验场);西北工业大学
+- 范赞, 刘庆, 匡彪, 付传宝,要庆生.用于水下清洗机器人的高精度相对定位方法:云南省,CN115837964B[P].2024-11-15. 发明授权.中国船舶重工集团公司七五0试验场
+- 吕希敬, 要庆生, 黄其培, 杨咏, 施铭珂,何美玲.一种四自由度的水听器支架:云南省,CN220870514U[P].2024-04-30. 实用新型.昆明船舶设备研究试验中心(中国船舶集团有限公司七五〇试验场)
+- 王琨, 匡彪, 汤志峰, 柯有强, 宋文生, 龚浩亮, 马小勤, 要庆生,桑国峰.一种双环自愈型水下光纤网络信号传输系统和方法:云南省,CN114499666B[P].2024-01-23. 发明授权.中国船舶重工集团公司七五0试验场
+- 袁春姗, 匡彪, 黄其培, 唐济远, 要庆生, 马小勤,万莉莉.基于水声定位的井口防喷器安装方法:云南省,CN116771294A[P].2023-09-19.发明公开.昆明船舶设备研究试验中心(中国船舶集团有限公司七五〇试验场)
+- 范赞, 刘庆, 匡彪, 付传宝,要庆生.用于水下清洗机器人的高精度相对定位方法:云南省,CN115837964A[P].2023-03-24.发明公开.中国船舶重工集团公司七五0试验场
+- 王琨, 匡彪, 汤志峰, 柯有强, 宋文生, 龚浩亮, 马小勤, 要庆生,桑国峰.一种双环自愈型水下光纤网络信号传输系统和方法:云南省,CN114499666A[P].2022-05-13.发明公开.中国船舶重工集团公司七五0试验场
+
 
 #### 论文
 
-+ 要庆生.一种长基线阵阵元标定及位置校准方法.《鱼雷靶场》.2017，3.
-+ 要庆生.基于OpenGL的水下弹道处理图形控制软件的设计.《鱼雷靶场》.2017，4.
-+ 要庆生.基于同步式合作信标的水声跟踪测量系统弹道处理显控软件设计.场50周年庆征文.2019.
-+ 要庆生. 四阶累积量谱线增强方法的改进仿真研究 [J]. 电子设计工程, 2014, 22 (18): 52-54. DOI:10.14022/j.cnki.dzsjgc.2014.18.075.
-+ 要庆生,李钢虎,曾渊,赵亚楠,何会会. 最小方差无失真响应基础上的语音信号处理方法研究\[A\]. 中国声学会超声电子学分会、四川省声学学会、上海市声学学会、山东声学学会、陕西省声学学会、重庆市声学学会、西安市声学会、中国力学学会电子电磁器件力学工作组.2012'中国西部声学学术交流会论文集\[Ⅱ\](C).中国声学会超声电子学分会、四川省声学学会、上海市声学学会、山东声学学会、陕西省声学学会、重庆市声学学会、西安市声学会、中国力学学会电子电磁器件力学工作组:《声学技术》编辑部,2012:4.
+- 要庆生.一种长基线阵阵元标定及位置校准方法.《鱼雷靶场》.2017，3.
+- 要庆生.基于OpenGL的水下弹道处理图形控制软件的设计.《鱼雷靶场》.2017，4.
+- 要庆生.基于同步式合作信标的水声跟踪测量系统弹道处理显控软件设计.场50周年庆征文.2019.
+- 要庆生. 四阶累积量谱线增强方法的改进仿真研究 [J]. 电子设计工程, 2014, 22 (18): 52-54. DOI:10.14022/j.cnki.dzsjgc.2014.18.075.
+- 要庆生,李钢虎,曾渊,赵亚楠,何会会. 最小方差无失真响应基础上的语音信号处理方法研究\[A\]. 中国声学会超声电子学分会、四川省声学学会、上海市声学学会、山东声学学会、陕西省声学学会、重庆市声学学会、西安市声学会、中国力学学会电子电磁器件力学工作组.2012'中国西部声学学术交流会论文集\[Ⅱ\](C).中国声学会超声电子学分会、四川省声学学会、上海市声学学会、山东声学学会、陕西省声学学会、重庆市声学学会、西安市声学会、中国力学学会电子电磁器件力学工作组:《声学技术》编辑部,2012:4.
 
-+ 袁春姗,唐济远,要庆生. 面阵阵元位置及幅相误差有源校正算法 [J]. 舰船电子对抗, 2021, 44 (06): 78-81+116. DOI:10.16426/j.cnki.jcdzdk.2021.06.015.
-+ 张庆国,黄其培,要庆生,等. 深远海水下多目标定位跟踪技术研究 [J]. 电子测量技术, 2019, 42 (22): 67-72. DOI:10.19651/j.cnki.emt.1902972.
-+ 张庆国,匡彪,要庆生,等. 船载水声定位系统自动校准技术研究 [J]. 声学技术, 2018, 37 (06): 535-539. DOI:10.16300/j.cnki.1000-3630.2018.06.004.
-+ 匡彪,王琨,袁春姗,要庆生.平面阵分裂波束DOA估计技术研究\[J\].声学与电子工程,2018(04):28-31.
-+ 张庆国,要庆生,黄其培,等. 座底式长基线水声跟踪系统校阵方法研究 [J]. 声学技术, 2016, 35 (05): 408-413. DOI:10.16300/j.cnki.1000-3630.2016.05.004.
-+ 何会会,李钢虎,要庆生,贺晓凯,石超雄.用慢特征分析算法实现水声信号盲分离\[J\].声学技术,2014,33(03):270-274.
+- Guan, Y., An, D., Sun, C., Yao, Q. (2024). Design of Block Sparse Structured Controller for Networked Interconnected Systems with Delays. In: Gu, J., Hu, F., Zhou, H., Fei, Z., Yang, E. (eds) Robotics and Autonomous Systems and Engineering Applications of Computational Intelligence. LSMS ICSEE 2024 2024. Communications in Computer and Information Science, vol 2220. Springer, Singapore. https://doi.org/10.1007/978-981-96-0313-8_25.(EI)
+- Guan, Y., Yin, H., Sun, C., Yao, Q. (2025). A Column Sparse Controller Design for Distributed Networked Control Systems. In: Peng, C., Wang, Y., Guan, Y., Sun, Q., Chen, Z., Zhang, Y. (eds) Advanced Control and Intelligent Computing Applications. LSMS ICSEE 2024 2024. Communications in Computer and Information Science, vol 2219. Springer, Singapore. https://doi.org/10.1007/978-981-96-0294-0_4.(EI)
+- 袁春姗,唐济远,要庆生. 面阵阵元位置及幅相误差有源校正算法 [J]. 舰船电子对抗, 2021, 44 (06): 78-81+116. DOI:10.16426/j.cnki.jcdzdk.2021.06.015.
+- 张庆国,黄其培,要庆生,等. 深远海水下多目标定位跟踪技术研究 [J]. 电子测量技术, 2019, 42 (22): 67-72. DOI:10.19651/j.cnki.emt.1902972.
+- 张庆国,匡彪,要庆生,等. 船载水声定位系统自动校准技术研究 [J]. 声学技术, 2018, 37 (06): 535-539. DOI:10.16300/j.cnki.1000-3630.2018.06.004.
+- 匡彪,王琨,袁春姗,要庆生.平面阵分裂波束DOA估计技术研究\[J\].声学与电子工程,2018(04):28-31.
+- 张庆国,要庆生,黄其培,等. 座底式长基线水声跟踪系统校阵方法研究 [J]. 声学技术, 2016, 35 (05): 408-413. DOI:10.16300/j.cnki.1000-3630.2016.05.004.
+- 何会会,李钢虎,要庆生,贺晓凯,石超雄.用慢特征分析算法实现水声信号盲分离\[J\].声学技术,2014,33(03):270-274.
 
 ## Contact
 
@@ -143,17 +153,17 @@ Visitor Count
 
 ## References
 
-+ [![GitHub license](https://badgen.net/github/license/yaoqs/yaoqs)](https://github.com/yaoqs/yaoqs/blob/master/LICENSE)
-+ [![GitHub license](https://img.shields.io/github/license/yaoqs/yaoqs.svg)](https://github.com/yaoqs/yaoqs/blob/master/LICENSE)
-+ [shields.io](https://shields.io/)
-+ [badgen.net](https://badgen.net/)
-+ [用 Substats 和 Shields.io 为你的个人主页定制动态数据小牌子](https://sspai.com/post/59593)
-+ [badges](https://www.oschina.net/p/badges)
-+ [网站徽章shields制作教程](https://blog.csdn.net/qq_45173404/article/details/123728687)
-+ [用 Shields.io 数据牌 + GitHub 统计卡片美化你的 GitHub profile](https://blog.csdn.net/Wonz5130/article/details/108417017)
+- [![GitHub license](https://badgen.net/github/license/yaoqs/yaoqs)](https://github.com/yaoqs/yaoqs/blob/master/LICENSE)
+- [![GitHub license](https://img.shields.io/github/license/yaoqs/yaoqs.svg)](https://github.com/yaoqs/yaoqs/blob/master/LICENSE)
+- [shields.io](https://shields.io/)
+- [badgen.net](https://badgen.net/)
+- [用 Substats 和 Shields.io 为你的个人主页定制动态数据小牌子](https://sspai.com/post/59593)
+- [badges](https://www.oschina.net/p/badges)
+- [网站徽章shields制作教程](https://blog.csdn.net/qq_45173404/article/details/123728687)
+- [用 Shields.io 数据牌 - GitHub 统计卡片美化你的 GitHub profile](https://blog.csdn.net/Wonz5130/article/details/108417017)
 
 ## 42
 
-+ ![船舶](船舶.gif)
-+ ![火箭](火箭.gif)
-+ ![芯片](芯片.gif)
+- ![船舶](船舶.gif)
+- ![火箭](火箭.gif)
+- ![芯片](芯片.gif)
