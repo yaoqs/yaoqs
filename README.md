@@ -42,21 +42,22 @@ Yao-Qingsheng received the B.S. degree in Noise and Vibration Control([082502](h
 
 #### 发明专利
 
-- 要庆生，李亚安，范赞，龚浩亮，王琨，汤志峰.一种基于合成孔径的长基线阵校准系统及方法：.2025-02-24.发明授权.中国船舶集团有限公司七五〇试验场;西北工业大学（ZL202218010228.4）
-- 要庆生，李亚安，范赞，王琨，匡彪、汤志峰.一种长基线阵阵元位置校准方法:.2024-12-02.发明授权.中国船舶重工集团公司七五0试验场(ZL202118019641.2)
+- 要庆生，李亚安，范赞，龚浩亮，王琨，汤志峰.一种基于合成孔径的长基线阵校准系统及方法：.2025-02-24.发明授权.中国船舶集团有限公司七五〇试验场;西北工业大学（AES:U2FsdGVkX1/b0TrlADXkxYKOd+r+3kK/Tls9u1MU7Q/jZxVgkkH2Ehxqa9HdXn+U）
+- 要庆生，李亚安，范赞，王琨，匡彪、汤志峰.一种长基线阵阵元位置校准方法:.2024-12-02.发明授权.中国船舶重工集团公司七五0试验场(AES:U2FsdGVkX18mxambykoRjLaK68/BWNC+DPIk/GkhOYTqx0fHkncEoSoF4O85rOlJ)
 - 范赞, 刘庆, 匡彪, 付传宝,要庆生.用于水下清洗机器人的高精度相对定位方法:云南省,CN115837964B[P].2024-11-15. 发明授权.中国船舶重工集团公司七五0试验场（ZL202211507900.6）
 - 吕希敬, 要庆生, 黄其培, 杨咏, 施铭珂,何美玲.一种四自由度的水听器支架:云南省,CN220870514U[P].2024-04-30. 实用新型.昆明船舶设备研究试验中心(中国船舶集团有限公司七五〇试验场)（ZL202322600447.X）
 - 王琨, 匡彪, 汤志峰, 柯有强, 宋文生, 龚浩亮, 马小勤, 要庆生,桑国峰.一种双环自愈型水下光纤网络信号传输系统和方法:云南省,CN114499666B[P].2024-01-23. 发明授权.中国船舶重工集团公司七五0试验场（ZL202210007443.8）
-- 陈波，要庆生，杨胜全，李兴武.一种多通道模拟信号增益的控制设备及方法：.2018-04-20.发明授权.中国船舶重工集团公司七五0试验场（ZL201518006022.4）
+- 陈波，要庆生，杨胜全，李兴武.一种多通道模拟信号增益的控制设备及方法：.2018-04-20.发明授权.中国船舶重工集团公司七五0试验场（AES:U2FsdGVkX18Pyw84pNvsyDk1br5Q0LYSENovxJIb3VEK85z6SsogmuKG5u/MkFUv）
 
 #### 论文
 
-- 要庆生.一种长基线阵阵元标定及位置校准方法.《YLBC》.2017，3.
-- 要庆生.基于OpenGL的水下弹道处理图形控制软件的设计.《YLBC》.2017，4.
-- 要庆生.基于同步式合作信标的水声跟踪测量系统弹道处理显控软件设计.xx.2019.
+- 要庆生.一种长基线阵阵元标定及位置校准方法.《AES:U2FsdGVkX19bXiGNYzr9vd6r4Vet9jsAsRm+JGlKMsY=》.2017，3.
+- 要庆生.基于OpenGL的水下弹道处理图形控制软件的设计.《AES:U2FsdGVkX19bXiGNYzr9vd6r4Vet9jsAsRm+JGlKMsY=》.2017，4.
+- 要庆生.基于同步式合作信标的水声跟踪测量系统弹道处理显控软件设计.《AES:U2FsdGVkX1+WFpeT+LVMy4AmA9NH1DxC2/Q0HKqNjPcr8iRjRm3JIHwPfGX7Hl0h》.2019.
 - 要庆生. 四阶累积量谱线增强方法的改进仿真研究 [J]. 电子设计工程, 2014, 22 (18): 52-54. DOI:10.14022/j.cnki.dzsjgc.2014.18.075.
 - 要庆生,李钢虎,曾渊,赵亚楠,何会会. 最小方差无失真响应基础上的语音信号处理方法研究\[A\]. 中国声学会超声电子学分会、四川省声学学会、上海市声学学会、山东声学学会、陕西省声学学会、重庆市声学学会、西安市声学会、中国力学学会电子电磁器件力学工作组.2012'中国西部声学学术交流会论文集\[Ⅱ\](C).中国声学会超声电子学分会、四川省声学学会、上海市声学学会、山东声学学会、陕西省声学学会、重庆市声学学会、西安市声学会、中国力学学会电子电磁器件力学工作组:《声学技术》编辑部,2012:4.
 
+- Sun, C., Guan, Y., Yao, H., & Yao, Q. (2025). Row/Column Sparse Controller Synthesis for Network-based Systems. 2025 Information Science Frontier Forum and the Academic Conference on Information Security and Intelligent Control, ISF 2025, 80–83. <https://doi.org/10.1109/ISF65011.2025.11047300>.(EI)
 - Guan, Y., An, D., Sun, C., Yao, Q. (2024). Design of Block Sparse Structured Controller for Networked Interconnected Systems with Delays. In: Gu, J., Hu, F., Zhou, H., Fei, Z., Yang, E. (eds) Robotics and Autonomous Systems and Engineering Applications of Computational Intelligence. LSMS ICSEE 2024 2024. Communications in Computer and Information Science, vol 2220. Springer, Singapore. <https://doi.org/10.1007/978-981-96-0313-8_25>.(EI)
 - Guan, Y., Yin, H., Sun, C., Yao, Q. (2025). A Column Sparse Controller Design for Distributed Networked Control Systems. In: Peng, C., Wang, Y., Guan, Y., Sun, Q., Chen, Z., Zhang, Y. (eds) Advanced Control and Intelligent Computing Applications. LSMS ICSEE 2024 2024. Communications in Computer and Information Science, vol 2219. Springer, Singapore. <https://doi.org/10.1007/978-981-96-0294-0_4>.(EI)
 - 袁春姗,唐济远,要庆生. 面阵阵元位置及幅相误差有源校正算法 [J]. 舰船电子对抗, 2021, 44 (06): 78-81+116. DOI:10.16426/j.cnki.jcdzdk.2021.06.015.
