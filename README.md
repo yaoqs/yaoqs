@@ -42,12 +42,14 @@ Yao-Qingsheng received the B.S. degree in Noise and Vibration Control([082502](h
 
 #### 发明专利
 
-- 要庆生，李亚安，范赞，龚浩亮，王琨，汤志峰.一种基于合成孔径的长基线阵校准系统及方法：.2025-02-24.发明授权.中国船舶集团有限公司七五〇试验场;西北工业大学（AES:U2FsdGVkX1/b0TrlADXkxYKOd+r+3kK/Tls9u1MU7Q/jZxVgkkH2Ehxqa9HdXn+U）
-- 要庆生，李亚安，范赞，王琨，匡彪、汤志峰.一种长基线阵阵元位置校准方法:.2024-12-02.发明授权.中国船舶重工集团公司七五0试验场(AES:U2FsdGVkX18mxambykoRjLaK68/BWNC+DPIk/GkhOYTqx0fHkncEoSoF4O85rOlJ)
+- 要庆生; 李亚安; 范赞; 汤志峰; 黄其培.一种抗浅海水声跃变干扰的长基线定位系统和融合算法:CN119224689B[P].2026-02-17.发明授权.昆明船舶设备研究试验中心(中国船舶集团有限公司七五〇试验场); 西北工业大学(ZL202411180934.8)
+- 要庆生，李亚安，范赞，龚浩亮，王琨，汤志峰.(AES:U2FsdGVkX1+PuDKYFmTtU/g8iP+pRD55QlmMRBbhTbkJeY7YHfy+Vj3bTqyRg1I98mowNMeucNf1H9o3Z60ARJFzsm2zQ5eavNQ+SUToXK8=).2025-02-24.发明授权.中国船舶集团有限公司七五〇试验场;西北工业大学（AES:U2FsdGVkX1/b0TrlADXkxYKOd+r+3kK/Tls9u1MU7Q/jZxVgkkH2Ehxqa9HdXn+U）
+- 要庆生，李亚安，范赞，王琨，匡彪、汤志峰.(AES:U2FsdGVkX1+ha+HgUdaZZ8HvLVIYX21mQhkeIfXRFHgiZwArOyiLJZNZCjcN8aF6AkUsrFZERh2T6rEgm78Epw==):.2024-12-02.发明授权.中国船舶重工集团公司七五0试验场(AES:U2FsdGVkX18mxambykoRjLaK68/BWNC+DPIk/GkhOYTqx0fHkncEoSoF4O85rOlJ)
 - 范赞, 刘庆, 匡彪, 付传宝,要庆生.用于水下清洗机器人的高精度相对定位方法:云南省,CN115837964B[P].2024-11-15. 发明授权.中国船舶重工集团公司七五0试验场（ZL202211507900.6）
 - 吕希敬, 要庆生, 黄其培, 杨咏, 施铭珂,何美玲.一种四自由度的水听器支架:云南省,CN220870514U[P].2024-04-30. 实用新型.昆明船舶设备研究试验中心(中国船舶集团有限公司七五〇试验场)（ZL202322600447.X）
 - 王琨, 匡彪, 汤志峰, 柯有强, 宋文生, 龚浩亮, 马小勤, 要庆生,桑国峰.一种双环自愈型水下光纤网络信号传输系统和方法:云南省,CN114499666B[P].2024-01-23. 发明授权.中国船舶重工集团公司七五0试验场（ZL202210007443.8）
-- 陈波，要庆生，杨胜全，李兴武.一种多通道模拟信号增益的控制设备及方法：.2018-04-20.发明授权.中国船舶重工集团公司七五0试验场（AES:U2FsdGVkX18Pyw84pNvsyDk1br5Q0LYSENovxJIb3VEK85z6SsogmuKG5u/MkFUv）
+- 袁春姗; 匡彪; 黄其培; 唐济远; 要庆生; 马小勤; 万莉莉.基于水声定位的井口防喷器安装方法:CN116771294B[P].2025-10-03.发明授权.昆明船舶设备研究试验中心(中国船舶集团有限公司七五〇试验场)（ZL202310912629.2）
+
 
 #### 论文
 
