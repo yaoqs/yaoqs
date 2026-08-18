@@ -28,6 +28,10 @@ Yao-Qingsheng received the B.S. degree in Noise and Vibration Control([082502](h
 
 #### 软件著作权
 
+<details>
+
+<summary>登记授权11项</summary>
+
 - 要庆生.一种水下声学测距系统数据处理与显控软件.登记号：2025SR0415068.昆明船舶设备研究试验中心（中国船舶集团有限公司七五〇试验场）.
 - 要庆生.数据信息融合系统软件.登记号：2025SR0415047.昆明船舶设备研究试验中心（中国船舶集团有限公司七五〇试验场）.
 - 要庆生.目标应答定位跟踪系统显控软件.登记号：2025SR0416308.昆明船舶设备研究试验中心（中国船舶集团有限公司七五〇试验场）.
@@ -40,7 +44,13 @@ Yao-Qingsheng received the B.S. degree in Noise and Vibration Control([082502](h
 - 要庆生.船载电罗经航迹航向显示软件.软件著作权.登记号：2018SR125516.昆明船舶设备研究试验中心.
 - 要庆生.大范围水声跟踪测量系统弹道处理显控软件.软件著作权.登记号：2016SR090272.中国船舶重工集团公司七五〇试验场.
 
+</details>
+
 #### 发明专利
+
+<details>
+
+<summary>申请13项，授权10项</summary>
 
 - 要庆生; 李亚安; 范赞; 汤志峰; 黄其培.一种抗浅海水声跃变干扰的长基线定位系统和融合算法:CN119224689B[P].2026-02-17.发明授权.昆明船舶设备研究试验中心(中国船舶集团有限公司七五〇试验场); 西北工业大学(ZL202411180934.8)
 - 要庆生，李亚安，范赞，龚浩亮，王琨，汤志峰.(AES:U2FsdGVkX1+PuDKYFmTtU/g8iP+pRD55QlmMRBbhTbkJeY7YHfy+Vj3bTqyRg1I98mowNMeucNf1H9o3Z60ARJFzsm2zQ5eavNQ+SUToXK8=).2025-02-24.发明授权.中国船舶集团有限公司七五〇试验场;西北工业大学（AES:U2FsdGVkX1/b0TrlADXkxYKOd+r+3kK/Tls9u1MU7Q/jZxVgkkH2Ehxqa9HdXn+U）
@@ -50,8 +60,13 @@ Yao-Qingsheng received the B.S. degree in Noise and Vibration Control([082502](h
 - 王琨, 匡彪, 汤志峰, 柯有强, 宋文生, 龚浩亮, 马小勤, 要庆生,桑国峰.一种双环自愈型水下光纤网络信号传输系统和方法:云南省,CN114499666B[P].2024-01-23. 发明授权.中国船舶重工集团公司七五0试验场（ZL202210007443.8）
 - 袁春姗; 匡彪; 黄其培; 唐济远; 要庆生; 马小勤; 万莉莉.基于水声定位的井口防喷器安装方法:CN116771294B[P].2025-10-03.发明授权.昆明船舶设备研究试验中心(中国船舶集团有限公司七五〇试验场)（ZL202310912629.2）
 
+</details>
 
 #### 论文
+
+<details>
+
+<summary>15篇</summary>
 
 - 要庆生.一种长基线阵阵元标定及位置校准方法.《AES:U2FsdGVkX19bXiGNYzr9vd6r4Vet9jsAsRm+JGlKMsY=》.2017，3.
 - 要庆生.基于OpenGL的水下弹道处理图形控制软件的设计.《AES:U2FsdGVkX19bXiGNYzr9vd6r4Vet9jsAsRm+JGlKMsY=》.2017，4.
@@ -68,6 +83,8 @@ Yao-Qingsheng received the B.S. degree in Noise and Vibration Control([082502](h
 - 匡彪,王琨,袁春姗,要庆生.平面阵分裂波束DOA估计技术研究\[J\].声学与电子工程,2018(04):28-31.
 - 张庆国,要庆生,黄其培,等. 座底式长基线水声跟踪系统校阵方法研究 [J]. 声学技术, 2016, 35 (05): 408-413. DOI:10.16300/j.cnki.1000-3630.2016.05.004.
 - 何会会,李钢虎,要庆生,贺晓凯,石超雄.用慢特征分析算法实现水声信号盲分离\[J\].声学技术,2014,33(03):270-274.
+
+</details>
 
 ## Contact
 
